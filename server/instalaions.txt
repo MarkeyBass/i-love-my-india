@@ -1,0 +1,3 @@
+npm i express mongoose dotenv multer
+
+npm init
